@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bills>
+    <bill>
+        <id>1</id>
+        <total>2214.8</total>
+    </bill>
+    <bill>
+        <id>2</id>
+        <total>1600.0</total>
+    </bill>
+    <bill>
+        <id>3</id>
+        <total>35.99</total>
+    </bill>
+</bills>

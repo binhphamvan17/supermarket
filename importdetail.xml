@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<details>
+    <detail>
+        <billId>1</billId>
+        <productId>1</productId>
+        <quantity>10</quantity>
+    </detail>
+    <detail>
+        <billId>1</billId>
+        <productId>2</productId>
+        <quantity>20</quantity>
+    </detail>
+    <detail>
+        <billId>1</billId>
+        <productId>3</productId>
+        <quantity>30</quantity>
+    </detail>
+    <detail>
+        <billId>1</billId>
+        <productId>4</productId>
+        <quantity>40</quantity>
+    </detail>
+    <detail>
+        <billId>2</billId>
+        <productId>5</productId>
+        <quantity>100</quantity>
+    </detail>
+    <detail>
+        <billId>3</billId>
+        <productId>4</productId>
+        <quantity>1</quantity>
+    </detail>
+    <detail>
+        <billId>4</billId>
+        <productId>6</productId>
+        <quantity>100</quantity>
+    </detail>
+</details>

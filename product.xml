@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Quần Đùi</name>
+        <boughtPrice>12.5</boughtPrice>
+        <sellPrice>15.0</sellPrice>
+        <quantity>0</quantity>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Áo phông</name>
+        <boughtPrice>30.0</boughtPrice>
+        <sellPrice>35.99</sellPrice>
+        <quantity>4</quantity>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Quần Kaki</name>
+        <boughtPrice>60.0</boughtPrice>
+        <sellPrice>70.0</sellPrice>
+        <quantity>5</quantity>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Áo Sơ Mi</name>
+        <boughtPrice>20.0</boughtPrice>
+        <sellPrice>24.99</sellPrice>
+        <quantity>36</quantity>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Áo Dài</name>
+        <boughtPrice>100.0</boughtPrice>
+        <sellPrice>125.0</sellPrice>
+        <quantity>90</quantity>
+    </product>
+    <product>
+        <id>6</id>
+        <name>Dép lê</name>
+        <boughtPrice>20.0</boughtPrice>
+        <sellPrice>25.0</sellPrice>
+        <quantity>100</quantity>
+    </product>
+</products>
