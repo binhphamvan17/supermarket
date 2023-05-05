@@ -19,7 +19,7 @@ Bài làm của nhóm: 6
     <li>Giá bán</li>
     <li>Số lượng (khởi tạo luôn bằng 0)</li>
 </ul>
-<img src="https://github.com/binhphamvan17/supermarket/blob/main/main/java/asset/Capture.PNG"/>
+<img src="https://github.com/binhphamvan17/supermarket/blob/main/src/main/java/asset/Capture.PNG"/>
 <p>Có thêm một số chức năng như tìm kiếm theo tên (gần đúng), theo ID(đúng)
 </p>
 
@@ -31,7 +31,7 @@ Do khi mới khởi tạo sản phẩm, số lượng sẽ là 0 nên ta cần c
     <li>Tên sản phẩm</li>
     <li>Số lượng</li>
 </ul>
-<img src="https://github.com/binhphamvan17/supermarket/blob/main/main/java/asset/Capture1.PNG"/>
+<img src="https://github.com/binhphamvan17/supermarket/blob/main/src/main/java/asset/Capture1.PNG"/>
 
 <h3>3. Bán hàng</h3>
 <p>Nhập hàng xong ta có thể bán hàng</p>
@@ -41,7 +41,7 @@ Do khi mới khởi tạo sản phẩm, số lượng sẽ là 0 nên ta cần c
     <li>Tên sản phẩm</li>
     <li>Số lượng</li>
 </ul>
-<img src="https://github.com/binhphamvan17/supermarket/blob/main/main/java/asset/Capture2.PNG"/>
+<img src="https://github.com/binhphamvan17/supermarket/blob/main/src/main/java/asset/Capture2.PNG"/>
 <p>Một số lưu ý</p>
 <ul>
     <li>Số lượng bán không được lớn hơn số lượng trong kho (sẽ tự động sinh thông báo khi gặp trường hợp này)</li>
@@ -49,11 +49,11 @@ Do khi mới khởi tạo sản phẩm, số lượng sẽ là 0 nên ta cần c
 
 <h3>4. Thống kê đơn hàng</h3>
 <p>Là một bảng kép gồm 2 bảng con: các đơn nhập hàng và xuất hàng</p>
-<img src="https://github.com/binhphamvan17/supermarket/blob/main/main/java/asset/Capture3.PNG"/>
+<img src="https://github.com/binhphamvan17/supermarket/blob/main/src/main/java/asset/Capture3.PNG"/>
 
 <h3>5. Xem kho hàng</h3>
 <p>Là một bảng chứa các thông tin về các sản phẩm đã được tạo</p>
-<img src="https://github.com/binhphamvan17/supermarket/blob/main/main/java/asset/Capture4.PNG"/>
+<img src="https://github.com/binhphamvan17/supermarket/blob/main/src/main/java/asset/Capture4.PNG"/>
 
 
 <h6>Hết, nhóm em xin cảm ơn cô!</h6>
